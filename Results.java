@@ -26,6 +26,8 @@ public class Student {
     {
         return (RE+SDA+SQAT+SEAM+FM);
     }
+
+    int countAll() {return 0;}
     
     void testDisplay()
     {
